@@ -1,10 +1,5 @@
  @import url('https://fonts.googleapis.com/css2?family=Prata&display=swap');
   @import url('https://fonts.googleapis.com/css2?family=Aclonica&display=swap');
-body{
-    background: rgb(169, 209, 143);
-    background: linear-gradient(90deg, rgb(233, 239, 240) 0%, rgb(196, 222, 219) 37%, rgb(208, 186, 203) 100%);
-  
-}
 
 .card{
     background: rgb(193,216,177);

@@ -2,7 +2,7 @@
   @import url('https://fonts.googleapis.com/css2?family=Aclonica&display=swap');
 body{
     background: rgb(169, 209, 143);
-    background: linear-gradient(90deg, rgb(87, 102, 77) 0%, rgb(224, 241, 239) 37%, rgb(234, 194, 133) 100%);}
+    background: linear-gradient(90deg, rgb(233, 239, 240) 0%, rgb(153, 192, 187) 37%, rgb(166, 104, 150) 100%);}
 .card{
     background: rgb(193,216,177);
 background: linear-gradient(90deg, rgb(89, 103, 79) 0%, rgb(124, 205, 197) 28%, rgb(231, 227, 222) 100%);
